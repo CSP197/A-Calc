@@ -2,7 +2,7 @@
 
 Built with `Typescript`, using `React.js` with `Vite`, `Tailwind CSS` with `Headless-UI` & hosted on `Github Pages`!
 
-## Screenshot
+## Demo
 ![Screenshot](image.png)
 
 ## Features
