@@ -2,22 +2,33 @@
 
 Built with `Typescript`, using `React.js` with `Vite`, `Tailwind CSS` with `Headless UI` & hosted on `Github Pages`!
 
+###### You can only see the minified and compressed `HTML` code in the `gh-pages` branch. I might push the source code at some point tho... Still undetermined atm.
+
 ## Screenshot
 ![Screenshot](image.png)
 
 ## Features
-This application currently supports the addition, subtraction, multiplication and division operations over mathematical expressions involving all real numbers, written in the English language. (More operations coming soon!)
+This application currently supports the following mathematical operations:
+1. addition
+2. subtraction
+3. multiplication
+4. division
+(More operations coming soon!)
+
+The syntax for the input queries supports fuzzy search and must be expressed in the English language. 
+
+For Example: `too => two => 2, tree => three => 3 ...`
 
 ### For the mathematically inclined :)
 ```
     y = α(x) 
     st. 
     x is a string over the English alphabet represented by Σ, 
-        defined as {{A,Z},{a,z}}, 
+        defined by the set, {{A,Z},{a,z}} 
     α ∈ [+, -, ×, ÷] and 
-    y ∈ ℝ.
+    y ∈ ℝ
  
  ```
 
 #### Disclaimer
-The code runs solely in your browser, so any queries with incomplete syntax will definitely freeze your client. This is a WIP lol
+The code runs solely in your browser, so any queries with incomplete syntax will definitely freeze your client. 😬
