@@ -1,6 +1,6 @@
 # αCalc
 
-Built with `Typescript`, using `React.js` with `Vite`, `Tailwind CSS` with `Headless UI` & hosted on `Github Pages`!
+Built with `Typescript`, using `React.js` with `Vite`, `Tailwind CSS` with `Headless UI Transitions` & hosted on `Github Pages`!
 
 ###### You can only see the minified and compressed `HTML` code in the `gh-pages` branch. The source code is currently private because reasons.
 
